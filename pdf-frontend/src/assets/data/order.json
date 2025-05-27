@@ -1,0 +1,157 @@
+{
+  "number": "ORD-20240528",
+  "date": "2025-05-28",
+  "note": "外帶飲品訂單",
+  "items": [
+    {
+      "name": "經典珍珠奶茶（中杯）",
+      "quantity": 2,
+      "unitPrice": 55
+    },
+    {
+      "name": "黑糖波霸鮮奶（大杯）",
+      "quantity": 1,
+      "unitPrice": 75
+    },
+    {
+      "name": "抹茶拿鐵（中杯）",
+      "quantity": 1,
+      "unitPrice": 65
+    },
+    {
+      "name": "冬瓜檸檬（中杯）",
+      "quantity": 2,
+      "unitPrice": 50
+    },
+    {
+      "name": "多多綠（大杯）",
+      "quantity": 1,
+      "unitPrice": 60
+    },
+    {
+      "name": "芒果冰沙（大杯）",
+      "quantity": 1,
+      "unitPrice": 80
+    },
+    {
+      "name": "仙草凍奶茶（中杯）",
+      "quantity": 1,
+      "unitPrice": 60
+    },
+    {
+      "name": "紅茶拿鐵（中杯）",
+      "quantity": 1,
+      "unitPrice": 60
+    },
+    {
+      "name": "蜂蜜綠茶（中杯）",
+      "quantity": 2,
+      "unitPrice": 55
+    },
+    {
+      "name": "椰果奶茶（中杯）",
+      "quantity": 1,
+      "unitPrice": 60
+    },
+    {
+      "name": "百香雙響炮",
+      "quantity": 1,
+      "unitPrice": 70
+    },
+    {
+      "name": "草莓牛奶",
+      "quantity": 1,
+      "unitPrice": 80
+    },
+    {
+      "name": "可可歐蕾",
+      "quantity": 1,
+      "unitPrice": 75
+    },
+    {
+      "name": "原味奶茶",
+      "quantity": 1,
+      "unitPrice": 50
+    },
+    {
+      "name": "養樂多綠",
+      "quantity": 1,
+      "unitPrice": 60
+    },
+    {
+      "name": "柳橙綠茶",
+      "quantity": 1,
+      "unitPrice": 55
+    },
+    {
+      "name": "烏龍奶蓋",
+      "quantity": 1,
+      "unitPrice": 70
+    },
+    {
+      "name": "金萱鮮奶茶",
+      "quantity": 1,
+      "unitPrice": 65
+    },
+    {
+      "name": "四季春鮮奶",
+      "quantity": 1,
+      "unitPrice": 65
+    },
+    {
+      "name": "茉香綠茶",
+      "quantity": 1,
+      "unitPrice": 45
+    },
+    {
+      "name": "烏龍茶",
+      "quantity": 1,
+      "unitPrice": 45
+    },
+    {
+      "name": "鐵觀音拿鐵",
+      "quantity": 1,
+      "unitPrice": 70
+    },
+    {
+      "name": "可可布丁奶茶",
+      "quantity": 1,
+      "unitPrice": 75
+    },
+    {
+      "name": "抹茶歐蕾",
+      "quantity": 1,
+      "unitPrice": 70
+    },
+    {
+      "name": "芝士奶蓋紅茶",
+      "quantity": 1,
+      "unitPrice": 75
+    },
+    {
+      "name": "泰式奶茶",
+      "quantity": 1,
+      "unitPrice": 70
+    },
+    {
+      "name": "焦糖奶茶",
+      "quantity": 1,
+      "unitPrice": 65
+    },
+    {
+      "name": "蘋果醋綠",
+      "quantity": 1,
+      "unitPrice": 60
+    },
+    {
+      "name": "黑糖仙草凍奶",
+      "quantity": 1,
+      "unitPrice": 75
+    },
+    {
+      "name": "芋頭牛奶",
+      "quantity": 1,
+      "unitPrice": 85
+    }
+  ]
+}
